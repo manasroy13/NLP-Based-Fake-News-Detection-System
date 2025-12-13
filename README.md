@@ -1,5 +1,5 @@
 
-                                    NLP-Based-Fake-News-Detection-System
+                                    **NLP-Based-Fake-News-Detection-System**
 
 📰🧑‍💻 Blockchain and NLP based Fake News Detection System
 
@@ -77,20 +77,20 @@ python main.py
 
 The system will present you with a menu:
 
-Welcome to the Blockchain and NLP Fake News Detection System!
+**Welcome to the Blockchain and NLP Fake News Detection System!**
 Choose an option:
 
-Analyze new news article
-View blockchain
-Check blockchain validity
-Exit Enter your choice (1-4):
-Analyze new news article: Enter the news text you want to classify. The system will provide a prediction ("Real" or "Fake") along with a confidence score. This analysis will then be recorded on the blockchain.If you enter non-textual input (like numbers or math equations), the system will indicate that it cannot classify such input as it's designed for natural language.
+1.Analyze new news article
+2.View blockchain
+3.Check blockchain validity
+4.Exit Enter your choice (1-4):
+1.Analyze new news article: Enter the news text you want to classify. The system will provide a prediction ("Real" or "Fake") along with a confidence score. This analysis will then be recorded on the blockchain.If you enter non-textual input (like numbers or math equations), the system will indicate that it cannot classify such input as it's designed for natural language.
 
-View blockchain: Displays a detailed list of all news analysis records stored on the blockchain, showing their index, timestamp, data, and hashes.
+2.View blockchain: Displays a detailed list of all news analysis records stored on the blockchain, showing their index, timestamp, data, and hashes.
 
-Check blockchain validity: Verifies the integrity of the entire blockchain. If any record has been tampered with, it will report the blockchain as invalid.
+3.Check blockchain validity: Verifies the integrity of the entire blockchain. If any record has been tampered with, it will report the blockchain as invalid.
 
-Exit: Quits the application.
+4.Exit: Quits the application.
 
 ⚠️ Limitations
 
@@ -106,7 +106,7 @@ No Fact-Checking Integration: It doesn't integrate with external fact-checking d
 
 Limited Input Types: The NLP model is designed purely for textual input and will explicitly state if it cannot classify non-textual data. It does not perform validation of mathematical or other non-linguistic inputs.
 
-🔮 Future Enhancements
+🔮** Future Enhancements**
 
 Integrate Real Datasets: Load larger, publicly available fake news datasets (e.g., from Kaggle) from CSV files.
 
